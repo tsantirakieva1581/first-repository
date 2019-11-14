@@ -1,0 +1,3 @@
+list all students
+list all courses
+github
